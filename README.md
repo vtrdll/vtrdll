@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vitordossantos99@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/outlook-27B7F5?style=for-the-badge&logo=outlook&logoColor=white)"/>
   </a>
   
 </p>
@@ -52,10 +52,10 @@
 ### 🛠️ Ferramentas e Tecnologias
 
 #### 💻 Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows,linux,pycharm,vscode)]
+![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows,linux,pycharm,vscode)
 
 #### 🧰 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,aws,docker,bootstrap,html,css,)]
+[![My Skills](https://skillicons.dev/icons?i=python,django,aws,docker,bootstrap,html,css,)
 
 ---
 
